@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple pdf browser using react, typescript, redux and react-read-pdf
 
 ## Available Scripts
 
